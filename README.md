@@ -1,4 +1,8 @@
 # BedrockBridge
+
+* ***Warning: this repository is currently not active. All updates and contents are currently being uploaded to [InnateAlpaca/BedrockBridge](https://github.com/InnateAlpaca/BedrockBridge).***
+This repository will start to be effectively used once BedrockBridge 2.0 will be released.
+
 BedrockBridge is a discord bot that connects your discord-server to your bedrock-server. This solution is specifically for BDS (Bedrock Dedicated Server) but it can also be used on any bedrock server. All you need to do in order to use this bot is [inviting](https://discord.com/api/oauth2/authorize?client_id=1041838898843762769&permissions=2684357632&scope=bot%20applications.commands) the bot to your discord-server, and installing the addon in your bedrock-server. That's all you need to do. (check installation for more details about this procedure).
 
 [Official Discord Server](https://discord.gg/A2SDjxQshJ)
